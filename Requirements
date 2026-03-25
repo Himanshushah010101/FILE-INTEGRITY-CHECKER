@@ -1,0 +1,5 @@
+## 📦 Requirements
+
+- Installed python is mandatory
+- No external libraries required (uses built-in hashlib module)
+
