@@ -23,4 +23,6 @@ if hash_value:
 else:
     print("File not found!")
 
- 
+
+#Run this code and enter text file path with or without extension you can check it will run definately
+#before it running your system python should installed in your windows and you can easily run this program!!!
