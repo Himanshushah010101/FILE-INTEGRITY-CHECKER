@@ -1,0 +1,6 @@
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/yourusername/file-integrity-checker.git
+cd file-integrity-checker/cli
+python main.py
